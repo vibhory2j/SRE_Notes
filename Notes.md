@@ -28,4 +28,6 @@ Rapid is the name of automated build and release management system.
 
 ## Service Reliability Hierarchy
 
+![Service Reliability Hierarchy][image]
 
+[image]: https://github.com/vibhory2j/SRE_Notes/blob/master/Service%20Reliability%20Hierarchy.jpg
