@@ -22,3 +22,10 @@ Rapid is the name of automated build and release management system.
 - Deployment
 
 ## Configuration Management
+
+
+# Practices
+
+## Service Reliability Hierarchy
+
+
